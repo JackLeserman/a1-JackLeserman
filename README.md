@@ -1,6 +1,6 @@
 Jack Leserman 
 
-http://a1-charlieroberts.glitch.me
+https://a1-jackleserman.glitch.me/
 
 This project shows an intro to web design, including HTML tags, CSS customization, and JavaScript animations 
 
