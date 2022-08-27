@@ -1,7 +1,8 @@
-Jack Leserman
+Jack Leserman 
+
 http://a1-charlieroberts.glitch.me
 
-This project shows ...
+This project shows an intro to web design, including HTML tags, CSS customization, and JavaScript animations 
 
 ## Technical Achievements
 - **Styled page with CSS**: Added rules for the p, li, and a selectors...
