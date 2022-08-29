@@ -7,9 +7,9 @@ This project shows an intro to web design, including HTML tags, CSS customizatio
 ## Technical Achievements
 - **Experimented With HTML Tags**: Utilized underlines, headings, paragraphs, breaks, labels/dropdowns, images, buttons and tables. I picked these to try new tags, and practice tags that require mutltiple elements (i.e. table). 
 - **Styled Page with CSS**: Added rules for the body, headings 1-3, paragraph, buttons, images, labels, and selection./
-- H1 was the main header at the top with my name
-- H2 was the header for Experience
-- H3 was the header for the table about tables.
+  - H1 was the main header at the top with my name
+  - H2 was the header for Experience
+  - H3 was the header for the table about tables.
 - **Added a Simple JavaScript Animation**: Used JavaScript to create a moving box located at the bottom of the page. Animation is triggered by a button. This uses a setInterval() to update the animation and move the block.
 
 
