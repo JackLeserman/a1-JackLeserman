@@ -5,7 +5,17 @@ https://a1-jackleserman.glitch.me/
 This project shows an intro to web design, including HTML tags, CSS customization, and JavaScript animations 
 
 ## Technical Achievements
-- **Styled page with CSS**: Added rules for the p, li, and a selectors...
+- **Experimented With HTML Tags**: Utilized underlines, headings, paragraphs, breaks, labels/dropdowns, images, buttons and tables.
+- **Styled Page with CSS**: Added rules for the body, headings 1-3, paragraph, buttons, images, labels, and selection.
+- Added a Simple JavaScript Animation**: Used JavaScript to create a moving box located at the bottom of the page. Animation is triggered by a button.
+
 
 ### Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Used the Raleway Font from Google Fonts**: I used Raleway as the font for the primary copy text in my site.
+- **Used a color palette**: Used a four tone palette from adobe. 
+#1F2529 - Primary
+#F74422 - Secondary
+#A4C4D9 - Lighter Blue
+#29384C - Darker Blue
+#EBEDF3 - BG
+![Capture](https://user-images.githubusercontent.com/39784006/187220175-1a967735-fe78-4a05-bbfa-0a2fcfdee6c5.PNG)
