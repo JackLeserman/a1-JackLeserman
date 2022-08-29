@@ -12,10 +12,10 @@ This project shows an intro to web design, including HTML tags, CSS customizatio
 
 ### Design Achievements
 - **Used the Raleway Font from Google Fonts**: I used Raleway as the font for the primary copy text in my site.
-- **Used a color palette**: Used a four tone palette from adobe. 
-#1F2529 - Primary
-#F74422 - Secondary
-#A4C4D9 - Lighter Blue
-#29384C - Darker Blue
-#EBEDF3 - BG
+- **Used a color palette**: Used a four tone palette from adobe.\
+-#1F2529 - Primary\
+#F74422 - Secondary\
+#A4C4D9 - Lighter Blue\
+#29384C - Darker Blue\
+#EBEDF3 - Background\
 ![Capture](https://user-images.githubusercontent.com/39784006/187220175-1a967735-fe78-4a05-bbfa-0a2fcfdee6c5.PNG)
